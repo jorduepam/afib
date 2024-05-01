@@ -3,7 +3,7 @@
 #include "udf.h"
 
 /*  User Defined Scalars : (3)*/
-/*  0: Trazador RTD */
+/*  0: RTD tracer */
 /*  1: m_1 */
 /*  2: m_2 */
 /*  2: m_3 */
