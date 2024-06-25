@@ -25,7 +25,7 @@ If you use this software for a publication, please cite these papers:
 
 **[2]** Reduced-order models of endocardial shear stress patterns in the left atrial appendage from a data-augmented patient-specific database. J. Dueñas-Pamplona et al. 2024;130:713-727. https://doi.org/10.1016/j.apm.2024.03.027
 
-**[3]** Influence of the flow split ratio on the position of the main atrial vortex implications for stasis on the left atrial appendage. S. Rodríguez-Aparicio et al. Currently under review. 
+**[3]** Influence of the flow split ratio on the position of the main atrial vortex implications for stasis on the left atrial appendage. S. Rodríguez-Aparicio et al. 2024;178:108772. https://doi.org/10.1016/j.compbiomed.2024.108772
 
 [1] introduces the stagnant volume calculation for the left atrial appendage, while [2] focuses on the parameterization of the atrium by universal coordinates, and [3] join these techniques with the implementation of a smooth atrial motion.
 
